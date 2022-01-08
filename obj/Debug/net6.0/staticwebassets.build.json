@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TnWku1nqthQQZ6zQYVNDbSaH3VqLdDtdJbQi5rvM92s=",
+  "Source": "dotnet-six",
+  "BasePath": "_content/dotnet-six",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
