@@ -20,13 +20,19 @@ Now create PostgesSQL service. I decided to create it using a container.
 docker run --name postgres -e POSTGRES_PASSWORD=root -p 5432:5432 -d postgres
 ```
 
+Connect in your PostgresSQL and create the database dotnet.
+
+```sql
+CREATE DATABASE databasename
+```
+
 Then add some tool to handle EntityFramework to your database.
 
 ```bash
 dotnet tool install --global dotnet-ef
 ```
 
-Inside the project cloned in your machine
+Inside the project cloned in your machine.
 
 ```bash
 dotnet ef migrations add Initial --context PostgresContext
