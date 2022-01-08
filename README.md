@@ -23,7 +23,7 @@ docker run --name postgres -e POSTGRES_PASSWORD=root -p 5432:5432 -d postgres
 Connect in your PostgresSQL and create the database dotnet.
 
 ```sql
-CREATE DATABASE databasename
+CREATE DATABASE dotnet
 ```
 
 Then add some tool to handle EntityFramework to your database.
