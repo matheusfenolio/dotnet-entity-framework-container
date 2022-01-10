@@ -1,6 +1,6 @@
 # Sumary
 
-I created this project to learn how to use dotnet 6 together with EntityFrameworkCore, Postgres, and Container from VSCode in a Linux OS machine.
+Project in dotnet 6 using EntityFrameworkCore, Postgre, Container. Everything made in VSCode using a Linux OS machine.
 
 ## How to
 
