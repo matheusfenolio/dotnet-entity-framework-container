@@ -2,6 +2,8 @@
 
 Project in dotnet 6 using EntityFrameworkCore, Postgre, Container. Everything made in VSCode using a Linux OS machine.
 
+![BUILD](https://github.com/matheusfenolio/dotnet-entity-framework-container/actions/workflows/build.yml/badge.svg)
+
 ## How to
 
 ### Setup environment
